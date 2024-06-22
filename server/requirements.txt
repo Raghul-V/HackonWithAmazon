@@ -1,0 +1,15 @@
+cv==1.0.0
+Flask==2.2.3
+Flask-Cors==4.0.1
+imageio==2.22.0
+keras==3.3.3
+numpy==1.26.4
+pandas==2.2.0
+Pillow==10.0.0
+pipenv==2023.12.1
+psycopg2==2.9.5
+python-dotenv==1.0.0
+sklearn==0.0.post9
+tensorflow==2.16.1
+tqdm==4.64.1
+ultralytics==8.2.31
